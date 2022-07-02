@@ -449,14 +449,14 @@ items:
       generate: true
       textures:
       - item/uicons_green_shield
-  uicons_blue_sheild:
+  uicons_blue_shield:
     enabled: true
     display_name: '&#FEC103blue_sheild'
     resource:
       material: PAPER
       generate: true
       textures:
-      - item/uicons_blue_sheild
+      - item/uicons_blue_shield
   uicons_orange_shield:
     enabled: true
     display_name: '&#FEC103orange_shield'

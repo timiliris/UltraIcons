@@ -1,0 +1,406 @@
+info:
+  namespace: ultraicons
+items:
+  uicons_0_gray:
+    enabled: true
+    display_name: '&70'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_0_gray
+  uicons_1_gray:
+    enabled: true
+    display_name: '&71'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_1_gray
+  uicons_2_gray:
+    enabled: true
+    display_name: '&72'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_2_gray
+  uicons_3_gray:
+    enabled: true
+    display_name: '&73'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_3_gray
+  uicons_4_gray:
+    enabled: true
+    display_name: '&74'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_4_gray
+  uicons_5_gray:
+    enabled: true
+    display_name: '&75'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_5_gray
+  uicons_6_gray:
+    enabled: true
+    display_name: '&76'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_6_gray
+  uicons_7_gray:
+    enabled: true
+    display_name: '&77'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_7_gray
+  uicons_8_gray:
+    enabled: true
+    display_name: '&78'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_8_gray
+  uicons_9_gray:
+    enabled: true
+    display_name: '&79'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_9_gray
+  uicons_angle_down_gray:
+    enabled: true
+    display_name: '&7angle down'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_down_gray
+  uicons_angle_up_gray:
+    enabled: true
+    display_name: '&7angle up'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_up_gray
+  uicons_angle_right_gray:
+    enabled: true
+    display_name: '&7angle right'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_right_gray
+  uicons_angle_left_gray:
+    enabled: true
+    display_name: '&7angle left'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_left_gray
+  uicons_angles_down_gray:
+    enabled: true
+    display_name: '&7angles down'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_down_gray
+  uicons_angles_up_gray:
+    enabled: true
+    display_name: '&7angles up'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_up_gray
+  uicons_angles_right_gray:
+    enabled: true
+    display_name: '&7angles right'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_right_gray
+  uicons_angles_left_gray:
+    enabled: true
+    display_name: '&7angles left'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_left_gray
+  uicons_0_gold:
+    enabled: true
+    display_name: '&#FEC1030'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_0_gold
+  uicons_1_gold:
+    enabled: true
+    display_name: '&#FEC1031'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_1_gold
+  uicons_2_gold:
+    enabled: true
+    display_name: '&#FEC1032'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_2_gold
+  uicons_3_gold:
+    enabled: true
+    display_name: '&#FEC1033'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_3_gold
+  uicons_4_gold:
+    enabled: true
+    display_name: '&#FEC1034'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_4_gold
+  uicons_5_gold:
+    enabled: true
+    display_name: '&#FEC1035'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_5_gold
+  uicons_6_gold:
+    enabled: true
+    display_name: '&#FEC1036'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_6_gold
+  uicons_7_gold:
+    enabled: true
+    display_name: '&#FEC1037'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_7_gold
+  uicons_8_gold:
+    enabled: true
+    display_name: '&#FEC1038'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_8_gold
+  uicons_9_gold:
+    enabled: true
+    display_name: '&#FEC1039'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_9_gold
+  uicons_angle_down_gold:
+    enabled: true
+    display_name: '&#FEC103angle down'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_down_gold
+  uicons_angle_up_gold:
+    enabled: true
+    display_name: '&#FEC103angle up'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_up_gold
+  uicons_angle_right_gold:
+    enabled: true
+    display_name: '&#FEC103angle right'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_right_gold
+  uicons_angle_left_gold:
+    enabled: true
+    display_name: '&#FEC103angle left'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angle_left_gold
+  uicons_angles_down_gold:
+    enabled: true
+    display_name: '&#FEC103angles down'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_down_gold
+  uicons_angles_up_gold:
+    enabled: true
+    display_name: '&#FEC103angles up'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_up_gold
+  uicons_angles_right_gold:
+    enabled: true
+    display_name: '&#FEC103angles right'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_right_gold
+  uicons_angles_left_gold:
+    enabled: true
+    display_name: '&#FEC103angles left'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_angles_left_gold
+  uicons_bitcoin:
+    enabled: true
+    display_name: '&#FEC103Bitcoin'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_bitcoin
+  uicons_youtube:
+    enabled: true
+    display_name: '&#FEC103Youtube'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_youtube
+  uicons_discord:
+    enabled: true
+    display_name: '&#FEC103discord'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_discord
+  uicons_twitch:
+    enabled: true
+    display_name: '&#FEC103twitch'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_twitch
+  uicons_google:
+    enabled: true
+    display_name: '&#FEC103google'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_google
+  uicons_instagram:
+    enabled: true
+    display_name: '&#FEC103instagram'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_instagram
+  uicons_snapchat:
+    enabled: true
+    display_name: '&#FEC103snapchat'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_snapchat
+  uicons_facebook:
+    enabled: true
+    display_name: '&#FEC103facebook'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_facebook
+  uicons_creeper:
+    enabled: true
+    display_name: '&#FEC103creeper'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_creeper
+  uicons_close1:
+    enabled: true
+    display_name: '&#FEC103close1'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_close1
+  uicons_accept1:
+    enabled: true
+    display_name: '&#FEC103accept1'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_accept1
+  uicons_apple_on:
+    enabled: true
+    display_name: '&#FEC103apple_on'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_apple_on
+  uicons_apple_off:
+    enabled: true
+    display_name: '&#FEC103apple_off'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_apple_off
+  uicons_rules:
+    enabled: true
+    display_name: '&#FEC103rules'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_rules
+  
+
+

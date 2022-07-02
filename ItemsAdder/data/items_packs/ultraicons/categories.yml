@@ -1,0 +1,64 @@
+info:
+  namespace: ultraicons
+categories:
+  uicons:
+    enabled: true
+    skip_if_already: false
+    icon: ultraicons:uicons_apple_on
+    name: '&a★&d&lUltra Icons&a★'
+    permission: ia.menu.seecategory.uicons
+    items:
+      - ultraicons:uicons_0_gray
+      - ultraicons:uicons_1_gray
+      - ultraicons:uicons_2_gray
+      - ultraicons:uicons_3_gray
+      - ultraicons:uicons_4_gray
+      - ultraicons:uicons_5_gray
+      - ultraicons:uicons_6_gray
+      - ultraicons:uicons_7_gray
+      - ultraicons:uicons_8_gray
+      - ultraicons:uicons_8_gray
+      - ultraicons:uicons_9_gray
+      - ultraicons:uicons_angle_down_gray
+      - ultraicons:uicons_angle_up_gray
+      - ultraicons:uicons_angle_right_gray
+      - ultraicons:uicons_angle_left_gray
+      - ultraicons:uicons_angles_down_gray
+      - ultraicons:uicons_angles_up_gray
+      - ultraicons:uicons_angles_right_gray
+      - ultraicons:uicons_angles_left_gray
+      - ultraicons:uicons_0_gold
+      - ultraicons:uicons_1_gold
+      - ultraicons:uicons_2_gold
+      - ultraicons:uicons_3_gold
+      - ultraicons:uicons_4_gold
+      - ultraicons:uicons_5_gold
+      - ultraicons:uicons_6_gold
+      - ultraicons:uicons_7_gold
+      - ultraicons:uicons_8_gold
+      - ultraicons:uicons_8_gold
+      - ultraicons:uicons_9_gold
+      - ultraicons:uicons_angle_down_gold
+      - ultraicons:uicons_angle_up_gold
+      - ultraicons:uicons_angle_right_gold
+      - ultraicons:uicons_angle_left_gold
+      - ultraicons:uicons_angles_down_gold
+      - ultraicons:uicons_angles_up_gold
+      - ultraicons:uicons_angles_right_gold
+      - ultraicons:uicons_angles_left_gold
+      - ultraicons:uicons_bitcoin
+      - ultraicons:uicons_youtube
+      - ultraicons:uicons_discord
+      - ultraicons:uicons_twitch
+      - ultraicons:uicons_google
+      - ultraicons:uicons_instagram
+      - ultraicons:uicons_snapchat
+      - ultraicons:uicons_facebook
+      - ultraicons:uicons_creeper
+      - ultraicons:uicons_close1
+      - ultraicons:uicons_accept1
+      - ultraicons:uicons_apple_on
+      - ultraicons:uicons_apple_off
+      - ultraicons:uicons_rules
+
+

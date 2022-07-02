@@ -54,11 +54,25 @@ categories:
       - ultraicons:uicons_instagram
       - ultraicons:uicons_snapchat
       - ultraicons:uicons_facebook
+      - ultraicons:uicons_google_play
+      - ultraicons:uicons_pepsi
+      - ultraicons:uicons_mcdonalds
+      - ultraicons:uicons_netflix
+      - ultraicons:uicons_twitter
       - ultraicons:uicons_creeper
       - ultraicons:uicons_close1
       - ultraicons:uicons_accept1
       - ultraicons:uicons_apple_on
       - ultraicons:uicons_apple_off
+      - ultraicons:uicons_server
+      - ultraicons:uicons_green_sheild
+      - ultraicons:uicons_blue_sheild
+      - ultraicons:uicons_orange_sheild
+      - ultraicons:uicons_crossed_swords
+      - ultraicons:uicons_crossed_swords2
       - ultraicons:uicons_rules
+
+
+      
 
 

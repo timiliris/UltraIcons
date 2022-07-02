@@ -401,6 +401,90 @@ items:
       generate: true
       textures:
       - item/uicons_rules
+  uicons_google_play:
+    enabled: true
+    display_name: '&#FEC103Google_play'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_google_play
+  uicons_pepsi:
+    enabled: true
+    display_name: '&#FEC103Pepsi'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_pepsi
+  uicons_netflix:
+    enabled: true
+    display_name: '&#FEC103Netflix'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_netflix
+  uicons_twitter:
+    enabled: true
+    display_name: '&#FEC103Twitter'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_twitter
+  uicons_server:
+    enabled: true
+    display_name: '&#FEC103Server'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_server
+  uicons_green_sheild:
+    enabled: true
+    display_name: '&#FEC103green_sheild'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_green_sheild
+  uicons_blue_sheild:
+    enabled: true
+    display_name: '&#FEC103blue_sheild'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_blue_sheild
+  uicons_orange_sheild:
+    enabled: true
+    display_name: '&#FEC103orange_sheild'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_orange_sheild
+  uicons_crossed_swords:
+    enabled: true
+    display_name: '&#FEC103crossed_swords'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_crossed_swords
+  uicons_crossed_swords2:
+    enabled: true
+    display_name: '&#FEC103crossed_swords2'
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/uicons_crossed_swords2
+
+
+
+  
   
 
 

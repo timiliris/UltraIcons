@@ -441,14 +441,14 @@ items:
       generate: true
       textures:
       - item/uicons_server
-  uicons_green_sheild:
+  uicons_green_shield:
     enabled: true
-    display_name: '&#FEC103green_sheild'
+    display_name: '&#FEC103green_shield'
     resource:
       material: PAPER
       generate: true
       textures:
-      - item/uicons_green_sheild
+      - item/uicons_green_shield
   uicons_blue_sheild:
     enabled: true
     display_name: '&#FEC103blue_sheild'
@@ -457,14 +457,14 @@ items:
       generate: true
       textures:
       - item/uicons_blue_sheild
-  uicons_orange_sheild:
+  uicons_orange_shield:
     enabled: true
-    display_name: '&#FEC103orange_sheild'
+    display_name: '&#FEC103orange_shield'
     resource:
       material: PAPER
       generate: true
       textures:
-      - item/uicons_orange_sheild
+      - item/uicons_orange_shield
   uicons_crossed_swords:
     enabled: true
     display_name: '&#FEC103crossed_swords'

@@ -451,7 +451,7 @@ items:
       - item/uicons_green_shield
   uicons_blue_shield:
     enabled: true
-    display_name: '&#FEC103blue_sheild'
+    display_name: '&#FEC103blue_shield'
     resource:
       material: PAPER
       generate: true
